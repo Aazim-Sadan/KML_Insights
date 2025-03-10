@@ -1,4 +1,4 @@
-# KML Viewer is a React-based web application that allows users to upload and visualize KML files on an interactive map.
+- KML Viewer is a React-based web application that allows users to upload and visualize KML files on an interactive map.
 
 # Features
 
