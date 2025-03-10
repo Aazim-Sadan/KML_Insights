@@ -1,12 +1,26 @@
-# React + Vite
+# KML Viewer is a React-based web application that allows users to upload and visualize KML files on an interactive map.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
 
-Currently, two official plugins are available:
+ - Upload and parse KML files
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display KML elements on a Leaflet map
 
-## Expanding the ESLint configuration
+- Show a summary of different KML element types
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Installation and Setup
+
+- Clone the Repository
+
+```
+git clone https://github.com/Aazim-Sadan/KML_Insights.git
+cd KML_Insights
+```
+
+# Install Dependencies
+
+```
+npm install
+```
+
+# Start the Development Server
